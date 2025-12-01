@@ -1,22 +1,38 @@
-# Houzz Interior Design Ideas
+# Real Estate App
 
 A new Flutter project.
 
-Houzz is the No. 1 app for improving and designing your home. Whether you’re building, renovating or decorating, Houzz has you covered.
+The Real Estate App helps users explore, plan, and design their dream home. Whether you’re building, renovating, buying, or decorating, this app provides everything you need in one place.
 
-Get the Best Design Ideas for Your Home
-- Browse more than 25 million high-resolution photos of home interiors and exteriors. Choose by style, location or room, such as kitchen or bathroom.
-- Save and share photos with friends, family and home professionals.
+⸻
 
-Find, Hire and Collaborate with the Best Home Professional for Your Project
-- Connect with over 3 million home improvement professionals, including architects, builders, interior designers, repair professionals and more.
+Get the Best Design & Property Ideas for Your Home
+	•	Browse millions of high-quality photos of home interiors and exteriors.
+	•	Filter by style, location, or room type such as kitchen, bedroom, or bathroom.
+	•	Save and share inspiration with friends, family, or professionals.
 
-Read Articles From Our Editorial Staff and Design Experts
-- Check out our biweekly Houzz Newsletter for engaging and informative articles, including home tours, full kitchen and bathroom renovation guides, insider updates, decorating tricks, organising tips, gardening advice, lifestyle and everything in between.
+⸻
 
-Get Advice
-- Discuss home design and renovation topics in our Advice section and get feedback from the Houzz community on your projects and ideas.
+Find, Hire & Collaborate with Top Home Professionals
+	•	Connect with architects, builders, interior designers, contractors, repair experts, and more.
+	•	Compare portfolios and reviews directly within the app.
+	•	Manage your home or renovation project seamlessly.
 
-Houzz is the app The Independent included on its list of ""50 best interiors websites"", The Sunday Times labelled as the ""cult American design and home renovation platform” and The Guardian proclaims is the ""website that speaks the language of home improvement”.
+⸻
 
-Use of the Houzz Android App and the services provided through the Apps are subject to Houzz.co.uk's terms of use: http://www.houzz.co.uk/termsOfUse
+Expert Articles & Home Improvement Guides
+	•	Read weekly articles from design experts on renovations, décor ideas, DIY tips, home buying, and lifestyle.
+	•	Get step-by-step guides for full kitchen, bathroom, or room makeovers.
+
+⸻
+
+Community Advice
+	•	Discuss design, renovation, or property-related topics.
+	•	Get valuable input from the community on projects and ideas.
+
+⸻
+
+Why Users Love the Real Estate App
+	•	A complete platform for home improvement
+	•	Inspiration, guidance, and professional help in one app
+	•	Trusted by homeowners, designers, and real-estate enthusiasts
